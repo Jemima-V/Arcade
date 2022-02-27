@@ -7,3 +7,6 @@ Arcade game room with 7 mini games
 - Brick Breaker
 - Trivia
 - Meteor Attack
+
+run from:
+EscapeRoomMainMenu.java
