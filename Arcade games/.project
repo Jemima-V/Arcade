@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Escape Room Game ISU</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>TriviaImages/580b57fcd9996e24bc43c4c4.png</name>
+			<type>1</type>
+			<location>/Users/jemimavijayasenan/eclipse/java-2021-12/Eclipse.app/Contents/MacOS/C::/Users/User/Pictures/580b57fcd9996e24bc43c4c4.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
